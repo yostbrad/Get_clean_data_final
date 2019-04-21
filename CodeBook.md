@@ -1,5 +1,5 @@
 run_analysis.R is and R program that performs data preparation and the 5 steps described
-in the Getting And Cleaning Data Peer Graded Assignment description
+in the Getting And Cleaning Data Peer Graded Assignment description. Need to have the dplyr package loaded
 1. Download the Dataset
   * If needed the dataset is downloaded and extracted under the folder called UCI HAR Dataset in the current working directory
 2. Assign each data to variables
