@@ -12,4 +12,4 @@ Files
        * Use descriptive activity names to name the activities in the data set
        * Appropriately label the data set with descriptive variable names.
        * From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and            each subject.
-  * TidyData.txt is the exported final data after going through all the sequences described above.
+  * TidyData.txt is the exported "tidy" data after going through all the sequences described above.
